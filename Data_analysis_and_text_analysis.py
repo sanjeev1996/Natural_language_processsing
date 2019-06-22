@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from collections import Counter
 
-#.................. import files...............
+
 report={}
 string={}
 num_words=0
